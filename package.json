@@ -1,6 +1,7 @@
 {
   "name": "saberface-themes",
   "displayName": "Saberface Themes",
+  "publisher": "aaanh",
   "description": "Themes that follow the color palettes of Fate saberfaces.",
   "repository": {
     "type": "git",
