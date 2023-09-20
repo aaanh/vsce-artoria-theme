@@ -1,8 +1,8 @@
 {
-  "name": "saberface-themes",
-  "displayName": "Saberface Themes",
+  "name": "artoria-theme",
+  "displayName": "Artoria Themes",
   "publisher": "aaanh",
-  "description": "Themes that follow the color palettes of Fate saberfaces.",
+  "description": "Themes that follow the color palettes of Fate's Artoria Pendragon.",
   "repository": {
     "type": "git",
     "url": "https://github.com/aaanh/vsce-theme-saberface.git"
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Saberface Themes",
+        "label": "Artoria Pendragon (Caster)",
         "uiTheme": "vs-dark",
-        "path": "./themes/Saberface Themes-color-theme.json"
+        "path": "./themes/castoria-color-theme.json"
       }
     ]
   }

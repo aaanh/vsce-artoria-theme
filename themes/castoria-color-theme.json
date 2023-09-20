@@ -1,5 +1,5 @@
 {
-	"name": "Saberface Themes",
+	"name": "Artoria Pendagron (Caster)",
 	"colors": {
 		"editor.background": "#121322",
 		"editor.foreground": "#f6eeff",
@@ -638,6 +638,49 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		}
+		},
+		{
+			"name": "Groovy - Foreground",
+			"scope": [
+				"string.quoted.double.groovy",
+				"source.groovy"
+			],
+			"settings": {
+				"foreground": "#4ba479",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Groovy - Constants",
+			"scope": [
+				"constant.other.groovy",
+				"source.groovy"
+			],
+			"settings": {
+				"foreground": "#C792EA",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Groovy - Other key",
+			"scope": [
+				"constant.other.key.groovy",
+				"source.groovy"
+			],
+			"settings": {
+				"foreground": "#f58bc5",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Groovy - Source",
+			"scope": [
+				"source.groovy"
+			],
+			"settings": {
+				"foreground": "#fff",
+				"fontStyle": "bold"
+			}
+		},
 	]
 }

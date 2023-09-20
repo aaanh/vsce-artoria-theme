@@ -6,4 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.1] - 2023-09-17
+
+### Added
+
 - Initial release
+
+## [0.0.2] - 2023-09-19
+
+### Added
+
+- Support for Groovy pipeline syntax
