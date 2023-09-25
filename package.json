@@ -20,6 +20,11 @@
         "label": "Artoria Pendragon (Caster)",
         "uiTheme": "vs-dark",
         "path": "./themes/castoria-color-theme.json"
+      },
+      {
+        "label": "Artoria Pendragon (Caster) - Light",
+        "uiTheme": "vs",
+        "path": "./themes/castoria-light-color-theme.json"
       }
     ]
   }
