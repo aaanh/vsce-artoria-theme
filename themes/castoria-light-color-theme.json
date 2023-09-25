@@ -295,7 +295,7 @@
         "markup.inserted"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#669323"
       }
     },
     {
@@ -454,7 +454,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#232323"
       }
     },
     {
@@ -612,7 +612,18 @@
         "punctuation.section.class.end"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#232323"
+      }
+    },
+    {
+      "name": "Markdown - Inline code",
+      "scope": [
+        "markup.inline.raw.string.markdown",
+        "markup.inline.raw.string.markdown"
+      ],
+      "settings": {
+        "foreground": "#2bb65e",
+        "fontStyle": "italic"
       }
     },
     {
@@ -640,7 +651,7 @@
         "markup.table"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#232323"
       }
     },
     {

@@ -601,6 +601,17 @@
 			}
 		},
 		{
+			"name": "Markdown - Inline code",
+			"scope": [
+				"markup.inline.raw.string.markdown",
+				"markup.inline.raw.string.markdown"
+			],
+			"settings": {
+				"foreground": "#71f0a0",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Markdown - Fenced Bode Block Variable",
 			"scope": [
 				"markup.raw.block.fenced.markdown",
