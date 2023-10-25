@@ -1,16 +1,27 @@
-# saberface-themes README
+# Artoria Theme
 
-## Working with Markdown
+I meant to build this as kind of a joke to explore VS Code extension development, but I am now too deep into the rabbit hole and I am enjoying the theme a little too much. So, expect more future updates 👌
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Screenshots
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Bash shell script sample
 
-## For more information
+![](assets/screenshot-1.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Java sample
 
-**Enjoy!**
+![](assets/screenshot-2.png)
+
+- React TypeScript sample
+
+![](assets/screenshot-3.png)
+
+## Original Inspiration
+
+![](assets/castoria.png)
+
+## Contributions
+
+[Fork the repo](https://github.com/aaanh/vsce-artoria-theme/fork)!
+
+All patches and suggestions are welcomed through [pull requests](https://github.com/aaanh/vsce-artoria-theme/pulls) and [issues](https://github.com/aaanh/vsce-artoria-theme/issues).

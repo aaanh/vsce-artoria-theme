@@ -17,3 +17,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Support for Groovy pipeline syntax
+
+## [0.1.1] - 2023-10-24
+
+- Documentation overhaul
+- No changes to existing theme
