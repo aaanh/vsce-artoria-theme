@@ -1,0 +1,22 @@
+/* This CSS file serves no purpose other than a quick reference to primary colors used in the theme */
+
+:root dark {
+  --neutral-background: #121322;
+  --themed-background: #30213f;
+
+  --neutral-foreground: #f6eeff;
+
+  --primary: #b26e8e;
+  --primary-lighter: #f58bc5;
+
+  --secondary: #6be6aa;
+  --secondary-lighter: #91f9bc;
+  --secondary-darker: #4ba479;
+
+  --tertiary: #4ab7e9;
+  --tertiary-variant: #82aaff;
+
+  --quarternary: #dec249;
+
+  --invalid-illegal-error: #d94b64;
+}

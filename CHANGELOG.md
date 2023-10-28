@@ -4,13 +4,24 @@ All notable changes to the "saberface-themes" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
-
-## [0.0.1] - 2023-09-17
+## [0.1.2] - 2023-10-27
 
 ### Added
 
-- Initial release
+- `palette.css` to reference colors used in the theme
+
+### Modified
+
+- Miscellaneous housekeeping
+- `castoria-color-theme.json` &rightarrow; `castoria-dark-theme.json`
+- `castoria-light-color-theme.json` &rightarrow; `castoria-light-theme.json`
+
+## [0.1.1] - 2023-10-24
+
+### Added
+
+- Documentation overhaul
+- No changes to existing theme
 
 ## [0.0.2] - 2023-09-19
 
@@ -18,7 +29,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Support for Groovy pipeline syntax
 
-## [0.1.1] - 2023-10-24
+## [0.0.1] - 2023-09-17
 
-- Documentation overhaul
-- No changes to existing theme
+### Added
+
+- Initial release
+
+## [Unreleased]
