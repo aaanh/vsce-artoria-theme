@@ -1,8 +1,14 @@
 # Change Log
 
-All notable changes to the "saberface-themes" extension will be documented in this file.
+All notable changes to the "Artoria Theme" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## [0.2.0] - 2023-11-26
+
+### Added
+
+- Markdown inline math, e.g. `$ x + y = z$` highlighting.
 
 ## [0.1.2] - 2023-10-27
 

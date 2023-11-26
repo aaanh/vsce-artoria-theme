@@ -467,6 +467,24 @@
       }
     },
     {
+      "name": "Markdown - Inline Dollars",
+      "scope": [
+        "inline-dollars"
+      ],
+      "settings": {
+        "foreground": "#4ab7e9"
+      }
+    },
+    {
+      "name": "Markdown - Inline Dollars Content",
+      "scope": [
+        "markup.inline.raw"
+      ],
+      "settings": {
+        "foreground": "#6be6aa"
+      }
+    },
+    {
       "name": "Markdown - Markup Raw Inline Punctuation",
       "scope": [
         "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"

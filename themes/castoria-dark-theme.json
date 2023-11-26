@@ -6,7 +6,7 @@
 		"activityBarBadge.background": "#4ba479",
 		"sideBarTitle.foreground": "#dadada",
 		"sideBar.background": "#121322",
-		"titleBar.activeBackground": "#30213f",
+		"titleBar.activeBackground": "#121322",
 		"titleBar.activeForeground": "#fff",
 		"tab.activeBackground": "#0a1a2c",
 		"tab.inactiveForeground": "#fff",
@@ -460,6 +460,24 @@
 			],
 			"settings": {
 				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markdown - Inline Dollars",
+			"scope": [
+				"inline-dollars"
+			],
+			"settings": {
+				"foreground": "#4ab7e9"
+			}
+		},
+		{
+			"name": "Markdown - Inline Dollars Content",
+			"scope": [
+				"markup.inline.raw"
+			],
+			"settings": {
+				"foreground": "#6be6aa"
 			}
 		},
 		{
