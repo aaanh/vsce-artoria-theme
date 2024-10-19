@@ -1,10 +1,12 @@
 /* This CSS file serves no purpose other than a quick reference to primary colors used in the theme */
 
-:root dark {
+:root .artoria dark {
   --neutral-background: #121322;
   --themed-background: #30213f;
 
   --neutral-foreground: #f6eeff;
+
+  --accent: #d6a7ff;
 
   --primary: #b26e8e;
   --primary-lighter: #f58bc5;
@@ -18,6 +20,31 @@
 
   --quarternary: #dec249;
   --quarternary-variant: #abe40e;
+
+  --invalid-illegal-error: #d94b64;
+}
+
+:root .akiyama-mizuki dark {
+  --neutral-background: #141012;
+  --themed-background: #3a212f;
+
+  --neutral-foreground: #fbeeff;
+
+  --accent: #d7bded;
+
+  --primary: #a95e81;
+  --primary-lighter: #ea9ac6;
+  --primary-darker: #4b2033;
+
+  --secondary: #7cc1f5;
+  --secondary-lighter: #91d1f9;
+  --secondary-darker: #4b73a4;
+
+  --tertiary: #4ae9d7;
+  --tertiary-variant: #82f7ff;
+
+  --quarternary: #dec249;
+  --quarternary-variant: #0ee467;
 
   --invalid-illegal-error: #d94b64;
 }

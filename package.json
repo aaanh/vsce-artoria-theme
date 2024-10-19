@@ -2,13 +2,13 @@
   "name": "artoria-theme",
   "displayName": "Artoria Themes",
   "publisher": "aaanh",
-  "description": "Themes that follow the color palettes of Fate's Artoria Pendragon.",
+  "description": "Themes that follow the color palettes of Fate's Artoria Pendragon. AND MORE OF MY FAVORITE CHARACTERS!",
   "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/aaanh/vsce-artoria-theme.git"
   },
-  "version": "0.3.0",
+  "version": "0.4.0",
   "engines": {
     "vscode": "^1.82.0"
   },
@@ -26,6 +26,11 @@
         "label": "Artoria Pendragon (Caster) - Light",
         "uiTheme": "vs",
         "path": "./themes/castoria-light-theme.json"
+      },
+      {
+        "label": "Akiyama Mizuki (ProSeka) - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/akiyama-mizuki-dark-theme.json"
       }
     ]
   }
