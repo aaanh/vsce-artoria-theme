@@ -5,6 +5,12 @@ All notable changes to the "Artoria Theme" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+####[0.4.0] - 2024-10-18
+
+### Added
+
+- Akiyama Mizuki dark theme
+
 ## [0.3.0] - 2024-10-18
 
 ### Added
