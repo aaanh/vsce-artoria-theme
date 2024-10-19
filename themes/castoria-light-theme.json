@@ -714,6 +714,61 @@
         "foreground": "#fff",
         "fontStyle": "bold"
       }
-    }
+    },
+    {
+			"name": "Shell - Shebang mark",
+			"scope": [
+				"punctuation.definition.comment.shebang.shell"
+			],
+			"settings": {
+				"foreground": "#4ba479"
+			}
+		},
+		{
+			"name": "Shell - Shebang content",
+			"scope": [
+				"meta.shebang.shell"
+			],
+			"settings": {
+				"foreground": "#6be6aa"
+			}
+		},
+		{
+			"name": "Shell - Option",
+			"scope": [
+				"constant.other.option"
+			],
+			"settings": {
+				"foreground": "#4ab7e9"
+			}
+		},
+		{
+			"name": "Shell - keyword::{then,else}",
+			"scope": [
+				"keyword.control.else",
+				"keyword.control.then"
+			],
+			"settings": {
+				"foreground": "#abe40e"
+			}
+		},
+		{
+			"name": "Rust - String interpolation",
+			"scope": [
+				"meta.interpolation.rust"
+			],
+			"settings": {
+				"foreground": "#f58bc5"
+			}
+		},
+		{
+			"name": "Rust - String casting",
+			"scope": [
+				"string.quoted.byte.raw.rust"
+			],
+			"settings": {
+				"foreground": "#f58bc5"
+			}
+		}
   ]
 }

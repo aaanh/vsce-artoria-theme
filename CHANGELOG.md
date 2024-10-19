@@ -1,8 +1,16 @@
 # Change Log
 
+
 All notable changes to the "Artoria Theme" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## [0.3.0] - 2024-10-18
+
+### Added
+
+- Improved highlighting for shell script and Rust
+- Added `quartenary-variant` in `palette.css`
 
 ## [0.2.0] - 2023-11-26
 
