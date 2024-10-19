@@ -789,7 +789,8 @@
 		{
 			"name": "TypeScript - keyword::angle-bracket",
 			"scope": [
-				"punctuation.definition.tag.begin.tsx"
+				"punctuation.definition.tag.begin.tsx",
+				"punctuation.definition.tag.end.tsx"
 			],
 			"settings": {
 				"foreground": "#dec249"
