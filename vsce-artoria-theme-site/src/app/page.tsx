@@ -3,6 +3,22 @@ export default function Home() {
     <main className="mx-auto p-8 max-w-4xl min-h-screen">
       <h1 className="mb-8 font-bold text-4xl">Castoria Theme Downloads</h1>
 
+      <p>
+        By{" "}
+        <a className="link" href="https://github.com/aaanh">
+          @aaanh
+        </a>{" "}
+        |{" "}
+        <a className="link" href="https://github.com/aaanh/vsce-artoria-theme">
+          Github
+        </a>{" "}
+        |{" "}
+        <a className="link" href="https://aaanh.com">
+          Homepage
+        </a>
+      </p>
+      <br />
+
       <div className="gap-6 grid">
         <DownloadCard
           title="Visual Studio Code"
