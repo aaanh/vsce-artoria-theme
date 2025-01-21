@@ -6,29 +6,29 @@ export default function Home() {
       <div className="gap-6 grid">
         <DownloadCard
           title="Visual Studio Code"
-          description="Artoria Theme for VS Code"
+          description="Install from Code extensions or from the Marketplace"
           link="https://marketplace.visualstudio.com/items?itemName=aaanh.artoria-theme"
           icon="vscode"
         />
 
         <DownloadCard
           title="iTerm2"
-          description="Castoria Dark theme for iTerm2"
-          link="/downloads/castoria_dark.itermcolors"
+          description="Import the color scheme"
+          link="https://raw.githubusercontent.com/aaanh/vsce-artoria-theme/refs/heads/main/exported/castoria_dark.itermcolors"
           icon="iterm"
         />
 
         <DownloadCard
           title="Vim"
-          description="Castoria Dark theme for Vim"
-          link="/downloads/castoria_dark.vim"
+          description="Copy the file to ~/.vim/colors/ and add colorscheme castoria_dark to ~/.vimrc"
+          link="https://raw.githubusercontent.com/aaanh/vsce-artoria-theme/refs/heads/main/exported/castoria_dark.vim"
           icon="vim"
         />
 
         <DownloadCard
           title="Windows Terminal"
-          description="Castoria Dark theme for Windows Terminal"
-          link="/downloads/castoria_dark.win_terminal.jsonc"
+          description="Open the JSON file and paste into the schemes array"
+          link="https://raw.githubusercontent.com/aaanh/vsce-artoria-theme/refs/heads/main/exported/castoria_dark.win_terminal.jsonc"
           icon="terminal"
         />
       </div>
@@ -43,7 +43,7 @@ interface DownloadCardProps {
   icon: string;
 }
 
-function DownloadCard({ title, link, icon }: DownloadCardProps) {
+function DownloadCard({ title, description, link, icon }: DownloadCardProps) {
   return (
     <a
       href={link}
@@ -58,7 +58,7 @@ function DownloadCard({ title, link, icon }: DownloadCardProps) {
         </div>
         <div>
           <h2 className="font-semibold text-xl">{title}</h2>
-          {/* <p className="text-gray-400">{description}</p> */}
+          <p className="text-gray-400">{description}</p>
         </div>
       </div>
     </a>
