@@ -68,8 +68,7 @@ function DownloadCard({ title, description, link, icon }: DownloadCardProps) {
       rel="noopener noreferrer"
     >
       <div className="flex items-center gap-4">
-        <div className="flex justify-center items-center bg-white/10 rounded-lg w-12 h-12">
-          {/* You can replace this with actual icons later */}
+        <div className="lg:flex justify-center items-center hidden bg-white/10 rounded-lg w-12 h-12">
           <span className="text-2xl">{icon[0].toUpperCase()}</span>
         </div>
         <div>
