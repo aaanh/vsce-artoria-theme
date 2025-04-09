@@ -47,6 +47,13 @@ export default function Home() {
           link="https://raw.githubusercontent.com/aaanh/vsce-artoria-theme/refs/heads/main/exported/castoria_dark.win_terminal.jsonc"
           icon="terminal"
         />
+
+        <DownloadCard
+          title="Zed Editor"
+          description={`Download and place the file in "~/.config/zed/themes". Then restart Zed`}
+          link="https://raw.githubusercontent.com/aaanh/vsce-artoria-theme/refs/heads/main/exported/castoria-dark-zed.json"
+          icon="terminal"
+        />
       </div>
     </main>
   );
@@ -63,12 +70,12 @@ function DownloadCard({ title, description, link, icon }: DownloadCardProps) {
   return (
     <a
       href={link}
-      className="block border-white/10 bg-white/5 hover:bg-white/10 p-6 border rounded-lg transition-colors"
+      className="block bg-white/5 hover:bg-white/10 p-6 border border-white/10 rounded-lg transition-colors"
       target="_blank"
       rel="noopener noreferrer"
     >
       <div className="flex items-center gap-4">
-        <div className="lg:flex justify-center items-center hidden bg-white/10 rounded-lg w-12 h-12">
+        <div className="hidden lg:flex justify-center items-center bg-white/10 rounded-lg w-12 h-12">
           <span className="text-2xl">{icon[0].toUpperCase()}</span>
         </div>
         <div>
