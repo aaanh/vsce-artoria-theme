@@ -10,19 +10,19 @@ https://themes.aaanh.app
 
 - Bash shell script sample
 
-![](assets/screenshot-1.png)
+![](vsce-artoria-theme-site/public/screenshots/screenshot-1.png)
 
 - Java sample
 
-![](assets/screenshot-2.png)
+![](vsce-artoria-theme-site/public/screenshots/screenshot-2.png)
 
 - React TypeScript sample
 
-![](assets/screenshot-3.png)
+![](vsce-artoria-theme-site/public/screenshots/screenshot-3.png)
 
 ## Original Inspiration
 
-![](assets/castoria.png)
+![](vsce-artoria-theme-site/public/screenshots/castoria.png)
 
 ## Contributions
 
