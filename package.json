@@ -8,9 +8,16 @@
     "type": "git",
     "url": "https://github.com/aaanh/vsce-artoria-theme.git"
   },
-  "version": "0.4.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.82.0"
+  },
+  "scripts": {
+    "generate-themes": "node scripts/generate-theme.js",
+    "version:major": "node scripts/update-version.js --major",
+    "version:minor": "node scripts/update-version.js --minor",
+    "version:patch": "node scripts/update-version.js --patch",
+    "publish": "node scripts/publish.js"
   },
   "categories": [
     "Themes"

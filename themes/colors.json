@@ -1,0 +1,25 @@
+{
+  "colors": {
+    "editor.background": "{{editorBackground}}",
+    "editor.foreground": "{{editorForeground}}",
+    "activityBarBadge.background": "{{activityBarBadgeBackground}}",
+    "sideBarTitle.foreground": "{{sideBarTitleForeground}}",
+    "sideBar.background": "{{sideBarBackground}}",
+    "titleBar.activeBackground": "{{titleBarActiveBackground}}",
+    "titleBar.activeForeground": "{{titleBarActiveForeground}}",
+    "tab.activeBackground": "{{tabActiveBackground}}",
+    "tab.inactiveForeground": "{{tabInactiveForeground}}",
+    "tab.inactiveBackground": "{{tabInactiveBackground}}",
+    "menu.background": "{{menuBackground}}",
+    "editorGroupHeader.tabsBackground": "{{editorGroupHeaderTabsBackground}}",
+    "activityBar.background": "{{activityBarBackground}}",
+    "activityBar.foreground": "{{activityBarForeground}}",
+    "statusBar.background": "{{statusBarBackground}}",
+    "statusBar.foreground": "{{statusBarForeground}}",
+    "sideBarSectionHeader.background": "{{sideBarSectionHeaderBackground}}",
+    "titleBar.inactiveBackground": "{{titleBarInactiveBackground}}",
+    "sideBar.border": "{{sideBarBorder}}",
+    "panel.border": "{{panelBorder}}",
+    "editorGroup.border": "{{editorGroupBorder}}"
+  }
+}
