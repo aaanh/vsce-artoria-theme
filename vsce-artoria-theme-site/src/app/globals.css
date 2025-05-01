@@ -24,4 +24,7 @@ body {
   .link {
     @apply underline underline-offset-2;
   }
+  .btn {
+    @apply bg-black hover:bg-white px-4 py-2 border rounded-lg hover:text-black text-center transition-all ease-in-out;
+  }
 }
