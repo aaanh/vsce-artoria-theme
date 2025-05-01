@@ -1,9 +1,17 @@
 # Change Log
 
-
 All notable changes to the "Artoria Theme" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## [1.0.0] - 2025-05-01
+
+### Added
+
+- Refactor static theme files into config files
+- Add templating scripts to dynamically generate final theme files
+- Website for theme preview and documentation
+- GitHub Actions workflow for automated deployment
 
 ## [0.4.1] - 2024-10-18
 
