@@ -2,3 +2,10 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+vsce-artoria-theme-site/**
+node_modules/
+exported/
+scripts/
+.github/
+.vscode/
+*.sh
